@@ -1,11 +1,25 @@
 /**
  * @file factory_method_myproject.cpp
  * @author mkustra
- * @brief Użycie wzorca projektowego metody wytwórczej w cpp, przerobiony przykład ze strony refactoring.guru
+ * @brief Użycie wzorca projektowego metody wytwórczej w cpp, przerobiony przykład ze strony refactoring.guru.
+ * Dodanie trzeciego produktu.
  * @version 1.0
  * @date 2022-06-10
  *
  * @copyright Copyright (c) 2022
+ *
+ * @result
+App: Launched with the ConcreteCreator1.
+Connect with interface.
+The same creator's code working with {Result of the ConcreteProduct1}
+
+App: Launched with the ConcreteCreator2.
+Connect with interface.
+The same creator's code working with {Result of the ConcreteProduct2}
+
+App: Launched with the ConcreteCreator3.
+Connect with interface.
+The same creator's code working with {Result of the ConcreteProduct3}
  *
  */
 #include <iostream>
